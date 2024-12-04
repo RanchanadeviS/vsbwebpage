@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+  <!-- Sub Header -->
+  <div class="sub-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-sm-8">
+          <div class="left-content">
+            <p>VSBEC<em>PLACE FOR PLACEMENT</em>An Autunomous
+            institution.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-4">
+          <div class="right-icons">
+            <ul>
+              <li>
+                <a href="#"></a>
+              </li>
+              <li>
+                <a href="#"></a>
+              </li>
+              <li>
+                <a href="#"></a>
+              </li>
+              <li>
+                <a href="#"></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="main-nav">
+            <!-- ***** Logo Start ***** -->
+             <a href="index.html" class="logo">VSB.ENGINEERING
+            COLLEGE</a> <!-- ***** Logo End ***** -->
+             <!-- ***** Menu Start ***** -->
+            <ul class="nav">
+              <li class="scroll-to-section">
+                <a href="#top" class="active">Home</a>
+              </li>
+              <li>
+                <a href="meetings.html">about us</a>
+              </li>
+              <li class="scroll-to-section">
+                <a href="#apply">Apply Now</a>
+              </li>
+              <li class="has-sub">
+                <a href="javascript:void(0)">Placement</a>
+                <ul class="sub-menu">
+                  <li>
+                    <a href="meetings.html">career</a>
+                  </li>
+                  <li>
+                    <a href="meetings.html">Details</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="scroll-to-section">
+                <a href="#courses">Courses</a>
+              </li>
+              <li class="scroll-to-section">
+                <a href="#contact">Contact Us</a>
+              </li>
+            </ul><a class='menu-trigger'><span>Menu</span></a> 
+            <!-- ***** Menu End ***** -->
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header><!-- ***** Header Area End ***** -->
+  <!-- ***** Main Banner Area Start ***** -->
+  <section class="section main-banner" id="top" data-section=
+  "section1">
+    <video autoplay="" muted loop="" id="bg-video"><source src=
+    "assets/images/WhatsApp%20Video%202024-06-26%20at%206.32.11%20PM.mp4"
+    type="video/mp4"></video>
+    <div class="video-overlay header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="caption">
+              <h6>Hello Students</h6>
+              <h2>Welcome Everyone to make a next step in your
+              life</h2>
+              <p>The infrastructure is very good because there are
+              many trees and plant <a rel="nofollow" href=
+              "https://templatemo.com/page/1" target="_blank">our
+              college provides 95%placement history every year</a>
+              . V.S.B. Engineering College. Secured the 3rd rank in
+              the Academic Ranking of Anna University among the 550
+              Engineering Colleges in Tamilnadu state <a rel=
+              "nofollow" href="https://www.pexels.com/@pressmaster"
+              target="_blank">green campus too..</a>.</p>
+              <div class="main-button-red">
+                <div class="scroll-to-section">
+                  <a href="#contact">Join Us Now!</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section><!-- ***** Main Banner Area End ***** -->
+  <section class="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="owl-service-item owl-carousel">
+            <div class="item">
+              <div class="icon"><img src=
+              "assets/images/service-icon-01.png" alt=""></div>
+              <div class="down-content">
+                <h4>Best Education</h4>
+                <p>VSB Engineering College secured 4th rank in the
+                Academic Ranking of Anna University among the 550
+                Engineering Colleges in Tamilnadu state.</p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="icon"><img src=
+              "assets/images/service-icon-02.png" alt=""></div>
+              <div class="down-content">
+                <h4>Best Teachers</h4>
+                <p>The faculty in our college are certified master
+                degeree holder and also 75% faculties are completed
+                their doctorate.</p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="icon"><img src=
+              "assets/images/service-icon-03.png" alt=""></div>
+              <div class="down-content">
+                <h4>Best Students</h4>
+                <p>our students are well and good at hardworking,
+                submitting work on time, actively participating in
+                class and achieving high grades..</p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="icon"><img src=
+              "assets/images/service-icon-02.png" alt=""></div>
+              <div class="down-content">
+                <h4>placement</h4>
+                <p>Placement Cell interacts with the reputed
+                organizations all over the country for arranging
+                campus interviews for the final year students. We
+                make efforts to organize technical seminars,
+                workshops and corporate expectation sessions..</p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="icon"><img src=
+              "assets/images/service-icon-03.png" alt=""></div>
+              <div class="down-content">
+                <h4>Best career</h4>
+                <p>If you are passionate about education, eager to
+                inspire the next generation, and committed to
+                making a positive impact, we invite you to explore
+                career opportunities at V.S.B. Engineering
+                College..</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="activioties" id="detials">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="section-heading">
+            <h2>departments</h2>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="categories">
+            <h4>Catgories</h4>
+            <ul>
+              <li>
+                <a href="#">Computer Science Engineering</a>
+              </li>
+              <li>
+                <a href="#">Information Technology</a>
+              </li>
+              <li>
+                <a href="#">Electrical and Electronic
+                Engineering</a>
+              </li>
+              <li>
+                <a href="#">Mechanical Engineering</a>
+              </li>
+              <li>
+                <a href="#">Artificial Intelegence and Machine
+                Learning</a>
+              </li>
+            </ul>
+            <div class="main-button-red">
+              <a href="meetings.html">best placement</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8">
+          <div class="col-lg-8">
+            <div class="col-lg-6">
+              <div class="meeting-item">
+                <div class="thumb">
+                  <div class="price"></div><a href=
+                  "details.html"><img src=
+                  "assets/images/WhatsApp%20Image%202024-06-20%20at%2011.26.05%20AM.jpeg"></a>
+                </div>
+                <div class="down-content">
+                  <div class="date">
+                    <h6>Nov <span>10</span></h6>
+                  </div><a href="meeting-details.html">
+                  <h4>infrastructure</h4></a>
+                  <p>green campus<br>
+                  fresh air.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="meeting-item">
+                <div class="thumb">
+                  <div class="price"></div><a href=
+                  "meeting-details.html"><img src=
+                  "assets/images/WhatsApp%20Image%202024-06-20%20at%2011.26.06%20AM.jpeg"></a>
+                </div>
+                <div class="down-content">
+                  <div class="date">
+                    <h6>Nov <span>24</span></h6>
+                  </div><a href="meeting-details.html">
+                  <h4>neat classroom</h4></a>
+                  <p>sophisticated<br>
+                  neet surrounding.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="meeting-item">
+                <div class="thumb">
+                  <div class="price"></div><a href=
+                  "meeting-details.html"><img src=
+                  "assets/images/images.jfif"></a>
+                </div>
+                <div class="down-content">
+                  <div class="date">
+                    <h6>Nov <span>26</span></h6>
+                  </div><a href="meeting-details.html">
+                  <h4>Higher Education Conference</h4></a>
+                  <p>qualified faculty<br>
+                  proper lab facility.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="meeting-item">
+                <div class="thumb">
+                  <div class="price"></div><a href=
+                  "meeting-details.html"><img src=
+                  "assets/images/DSC09970-600-x-397.jpg"></a>
+                </div>
+                <div class="down-content">
+                  <div class="date">
+                    <h6>Nov <span>30</span></h6>
+                  </div><a href="meeting-details.html">
+                  <h4>hostel</h4></a>
+                  <p>proper water facility<br>
+                  safe for both boys and girls.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="apply-now" id="apply">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 align-self-center">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="item">
+                <h3>APPLY FOR BACHELOR DEGREE</h3>
+                <p>You are allowed to use this portal for your
+                education purpose . You can feel free to ask any
+                query.</p>
+                <div class="main-button-red">
+                  <div class="scroll-to-section">
+                    <a href="#contact">Join Us Now!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="item">
+                <h3>APPLY FOR MASTER DEGEREE</h3>
+                <p>here you can apply for your master degree
+                course. Please contact us for more information.</p>
+                <div class="main-button-yellow">
+                  <div class="scroll-to-section">
+                    <a href="#contact">Join Us Now!</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="accordions is-first-expanded">
+            <article class="accordion">
+              <div class="accordion-head">
+                <span>About VSBEC</span>
+              </div>
+              <div class="accordion-body">
+                <div class="content">
+                  <p>If you want to get the latest collection of
+                  vsbec, you may visit <a rel="nofollow" href=
+                  "https://www.vsbec.com/" target="_blank">Too CSS
+                  website</a>. If you need a working contact form
+                  script, please visit <a href=
+                  "https://vsbec.com/contact" target="_parent">our
+                  contact page</a> for more info.</p>
+                </div>
+              </div>
+            </article>
+            <article class="accordion">
+              <div class="accordion-head">
+                <span>alumini activities</span>
+              </div>
+              <div class="accordion-body">
+                <div class="content">
+                  <p>V.S.B Alumni Association functions as a nodal
+                  agency for maintaining liaison with the alumni
+                  and to involve them in the development and growth
+                  of the institution. It will promote and encourage
+                  the alumni to exchange professional knowledge by
+                  undertaking and facilitating conferences,
+                  seminars, lectures and meetings amongst alumni,
+                  students, faculty and others. Continuous
+                  interaction with Alumni is expected to widen the
+                  placement opportunities of the students.<br>
+                  <br>
+                  Alumni Day is being organized every year as a
+                  calendar event by the Management to bring the
+                  alumni of various departments to celebrate their
+                  memories with college and contribute back wisely
+                  for the college through support in placement,
+                  career guidance for the present students. Based
+                  on the convenience of the Alumni, Alumni chapters
+                  are also held up at the various geographical
+                  location for better connect with them. Alumni
+                  Coordinators of the concerned departments play a
+                  significant role in registering and organizing
+                  the Alumni day and Alumni chapter leading it to
+                  be a grand success..</p>
+                </div>
+              </div>
+            </article>
+            <article class="accordion">
+              <div class="accordion-head">
+                <span>research activities</span>
+              </div>
+              <div class="accordion-body">
+                <div class="content">
+                  <p>The Research Committee is formed with the
+                  following members for sensitizing thrust areas
+                  and to monitor the research activities such as
+                  Research Article Publication indexed in Scopus
+                  indexed/SCIE/Springer Journals, Book
+                  Publications, Patent Publications, research
+                  proposal submission to various funding
+                  agencies..<br>
+                  <br>
+                  As the detection of plagiarism and steps to
+                  prevent it are important, equally important is to
+                  educate students about the dangers of plagiarism.
+                  An institution needs to take steps to strengthen
+                  the morale of students so that they do not take
+                  the support of the unfair-means.</p>
+                </div>
+              </div>
+            </article>
+            <article class="accordion last-accordion">
+              <div class="accordion-head">
+                <span>sports activities</span>
+              </div>
+              <div class="accordion-body">
+                <div class="content">
+                  <p>The Department of Physical Education headed by
+                  Dr.M.Ravi, Director of Physical Education and the
+                  College Management understands how important
+                  physical activities are for the wholesome
+                  development of an individual. Physical Education
+                  is part of general education and it is directed
+                  and centered on the total well being of the
+                  student. It is important for the development of
+                  physical, social and mental skills. The skills
+                  obtained from the physical education environment
+                  will allow the student to develop an attitude,
+                  which will prepare him/her for a lifelong pursuit
+                  of being physically fit..</p>
+                </div>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="our-courses" id="courses">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="section-heading">
+            <h2>Our Popular Courses</h2>
+          </div>
+        </div>.
+        <div class="col-lg-12">
+          <div class="owl-courses-item owl-carousel">
+            <div class="item">
+              <img src="assets/images/RMS_7996-600-x-400.jpg">
+              <div class="down-content">
+                <h4>COMPUTER SCIENCE ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>CSE</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/059-600-x-399.jpg">
+              <div class="down-content">
+                <h4>INFORMATION TECHNOLOGY</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>IT</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/download%20(1).jfif">
+              <div class="down-content">
+                <h4>ELECTICAL AND COMMUNICATION ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>ECE</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/Rectangle-258013.png">
+              <div class="down-content">
+                <h4>MECHANICAL ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>MECH</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/banner-dep-1-1-1.png">
+              <div class="down-content">
+                <h4>BIOTECHNOLOGY</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>BIOTECH</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/Rectangle-2567-1.png">
+              <div class="down-content">
+                <h4>CIVIL ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>CIVIL</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/download%20(1).jfif">
+              <div class="down-content">
+                <h4>CHEMICAL ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>CHEMICAL</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/2.png">
+              <div class="down-content">
+                <h4>ARTIFICIAL INTELEGENCE AND MACHINE
+                LEARNING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>AIML</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/6.jpg">
+              <div class="down-content">
+                <h4>COMPUTER AND COMMUNICATION ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>CCE</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <img src="assets/images/RMS_7996-600-x-400.jpg">
+              <div class="down-content">
+                <h4>COMPUTER SCIENCE AND BUSSINESS ENGINEERING</h4>
+                <div class="info">
+                  <div class="row">
+                    <div class="col-8"></div>
+                    <div class="col-4">
+                      <span>CSBS</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-4"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="our-facts">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="row">
+            <div class="col-lg-12">
+              <h2>A Few Facts About Our University</h2>
+            </div>
+            <div class="col-lg-6">
+              <div class="row">
+                <div class="col-12">
+                  <div class="count-area-content percentage">
+                    <div class="count-digit">
+                      94
+                    </div>
+                    <div class="count-title">
+                      Succesed Students
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="count-area-content">
+                    <div class="count-digit">
+                      126
+                    </div>
+                    <div class="count-title">
+                      Current Teachers
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="row">
+                <div class="col-12">
+                  <div class="count-area-content new-students">
+                    <div class="count-digit">
+                      2345
+                    </div>
+                    <div class="count-title">
+                      New Students
+                    </div>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <div class="count-area-content">
+                    <div class="count-digit">
+                      32
+                    </div>
+                    <div class="count-title">
+                      Awards
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 align-self-center">
+          <div class="video">
+            <a href=
+            "https://youtu.be/_-oITRUrTvE?si=Z0fmJ7VS4Q6CYq-V"
+            target="_parent"><img src=
+            "assets/images/play-icon.png"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="contact-us" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9 align-self-center">
+          <div class="row">
+            <div class="col-lg-12">
+              <form id="contact" action="" method="post" name=
+              "contact">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <h2>Let's get in touch</h2>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="name" type="text" id="name"
+                      placeholder="YOURNAME...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="email" type="text" id="email"
+                      pattern="[^ @]*@[^ @]*" placeholder=
+                      "YOUR EMAIL..." required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-4">
+                    <fieldset>
+                      <input name="course" type="text" id="course"
+                      placeholder="COURSE...*" required="">
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <textarea name="message" type="text" class=
+                      "form-control" id="message" placeholder=
+                      "YOUR MESSAGE..." required=""></textarea>
+                    </fieldset>
+                  </div>
+                  <div class="col-lg-12">
+                    <fieldset>
+                      <button type="submit" id="form-submit" class=
+                      "button">SEND MESSAGE NOW</button>
+                    </fieldset>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="right-info">
+            <ul>
+              <li>
+                <h6>Phone Number</h6><span>9994496212</span>
+              </li>
+              <li>
+                <h6>Email Address</h6><span>vsbec@gmail.com</span>
+              </li>
+              <li>
+                <h6>Street Address</h6><span>67,kovai main road
+                post,karudayampalayam,tamil nadu 639111</span>
+              </li>
+              <li>
+                <h6>Website URL</h6><span>www.vsbec.com</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <p>Copyright © 2024 ranchana devi.<br>
+      <a href="https://templatemo.com" target="_parent" title=
+      "free css templates"></a></p>
+    </div>
+  </section><!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script> 
+  <script src=
+  "vendor/bootstrap/js/bootstrap.bundle.min.js"></script> 
+  <script src="assets/js/isotope.min.js"></script> 
+  <script src="assets/js/owl-carousel.js"></script> 
+  <script src="assets/js/lightbox.js"></script> 
+  <script src="assets/js/tabs.js"></script> 
+  <script src="assets/js/video.js"></script> 
+  <script src="assets/js/slick-slider.js"></script> 
+  <script src="assets/js/custom.js"></script> 
+  <script>
+
+        //according to loftblog tut
+        $('.nav li:first').addClass('active');
+
+        var showSection = function showSection(section, isAnimate) {
+          var
+          direction = section.replace(/#/, ''),
+          reqSection = $('.section').filter('[data-section="' + direction + '"]'),
+          reqSectionPos = reqSection.offset().top - 0;
+
+          if (isAnimate) {
+            $('body, html').animate({
+              scrollTop: reqSectionPos },
+            800);
+          } else {
+            $('body, html').scrollTop(reqSectionPos);
+          }
+
+        };
+
+        var checkSection = function checkSection() {
+          $('.section').each(function () {
+            var
+            $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+            if (topEdge < wScroll && bottomEdge > wScroll) {
+              var
+              currentId = $this.data('section'),
+              reqLink = $('a').filter('[href*=\\#' + currentId + ']');
+              reqLink.closest('li').addClass('active').
+              siblings().removeClass('active');
+            }
+          });
+        };
+
+        $('.main-menu, .responsive-menu, .scroll-to-section').on('click', 'a', function (e) {
+          e.preventDefault();
+          showSection($(this).attr('href'), true);
+        });
+
+        $(window).scroll(function () {
+          checkSection();
+        });
+  </script>
+</body>
+</html>
